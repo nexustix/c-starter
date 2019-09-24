@@ -1,4 +1,4 @@
-src/**.h
+*.h
 
 _discard/
 _legacy/
